@@ -1,0 +1,10 @@
+{
+  "contracts": {
+    "0xd6cdf4072eb6bcf10ef1b715aaa0fdf755b52327": {
+      "name": "SimpleQuests.sol"
+    },
+    "0x50dC3f8395eB76A1B99E9509ED52F96FCB11b037": {
+      "name": "Village.sol"
+    }
+  }
+}
